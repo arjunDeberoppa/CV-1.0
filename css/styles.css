@@ -1,0 +1,47 @@
+body{
+  background-color: #EAF6F6;
+}
+
+hr{
+   border-style:none;
+   border-top-style: dotted;
+   border-color: #355764;
+   border-width: 8px;
+   width: 7%;
+}
+
+h1{
+  color: #66BFBF; font-size: 50px;
+}
+
+h3{
+  color: #66BFBF; font-size: 27px;
+}
+
+h2{
+  color: #66BFBF; font-size: 37px;
+}
+
+p{
+  font-size: 17px;
+}
+
+li{
+  font-size: 17px;
+}
+
+th{
+  font-size: 22px;
+}
+
+td{
+  font-size: 17px;
+}
+
+a{
+  font-size: 17px;
+}
+
+label{
+  font-size: 17px;
+}
